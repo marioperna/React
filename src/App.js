@@ -35,7 +35,7 @@ class App extends Component {
     );
   }
 }
-lello
+
 
 
 export default App;
